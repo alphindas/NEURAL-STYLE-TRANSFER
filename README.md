@@ -161,19 +161,19 @@ python NST.py
 
 4.The final image is a fusion of the two: the structure of the content with the texture of the style.
 
-Customization
+# Customization
 
 Change the style_weight and content_weight in the script to adjust the intensity of the style.
 
 Modify the image paths to use your own photos.
 
-References
+# References
 
 A Neural Algorithm of Artistic Style (Gatys et al.)
 
 PyTorch Documentation
 
-📄 License
+# License
 This project is open-source and available under the MIT License.
 
 CONTENT IMAGE :
