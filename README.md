@@ -173,8 +173,6 @@ A Neural Algorithm of Artistic Style (Gatys et al.)
 
 PyTorch Documentation
 
-# License
-This project is open-source and available under the MIT License.
 
 CONTENT IMAGE :
 
